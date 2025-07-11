@@ -8,25 +8,33 @@
 
 ## 🛠️ Tecnologias que utilizo
 
-**Front-end:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=000)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=Next.js&logoColor=fff)  
-![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
+### Front-end  
+<span>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=Next.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff" />
+</span>
 
-**Back-end:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)  
-![Express](https://img.shields.io/badge/-Express.js-000?style=flat&logo=express&logoColor=fff)  
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+### Back-end  
+<span>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</span>
 
-**Banco de Dados:**  
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=fff)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)  
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=000)
+### Banco de Dados  
+<span>
+  <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=000" />
+</span>
 
-**Outros:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
+### Outros  
+<span>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff" />
+</span>
 
 ---
 
