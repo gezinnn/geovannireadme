@@ -48,15 +48,6 @@
 
 ---
 
-## 📈 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gezinnn&show_icons=true&theme=dracula&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gezinnn&layout=compact&theme=dracula" />
-</p>
-
----
-
 ## 📬 Vamos conversar?
 
 - 📧 E-mail: geovannialmeida01@gmail.com  
